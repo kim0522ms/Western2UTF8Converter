@@ -1,0 +1,7 @@
+C:\Users\KMS\Documents\Visual Studio 2010\Projects\Exercises\CodeTest\Western2UTF8Converter\Western2UTF8Converter\bin\Release\Western2UTF8Converter.exe
+C:\Users\KMS\Documents\Visual Studio 2010\Projects\Exercises\CodeTest\Western2UTF8Converter\Western2UTF8Converter\bin\Release\Western2UTF8Converter.pdb
+C:\Users\KMS\Documents\Visual Studio 2010\Projects\Exercises\CodeTest\Western2UTF8Converter\Western2UTF8Converter\obj\x86\Release\Western2UTF8Converter.Form1.resources
+C:\Users\KMS\Documents\Visual Studio 2010\Projects\Exercises\CodeTest\Western2UTF8Converter\Western2UTF8Converter\obj\x86\Release\Western2UTF8Converter.Properties.Resources.resources
+C:\Users\KMS\Documents\Visual Studio 2010\Projects\Exercises\CodeTest\Western2UTF8Converter\Western2UTF8Converter\obj\x86\Release\Western2UTF8Converter.csproj.GenerateResource.Cache
+C:\Users\KMS\Documents\Visual Studio 2010\Projects\Exercises\CodeTest\Western2UTF8Converter\Western2UTF8Converter\obj\x86\Release\Western2UTF8Converter.exe
+C:\Users\KMS\Documents\Visual Studio 2010\Projects\Exercises\CodeTest\Western2UTF8Converter\Western2UTF8Converter\obj\x86\Release\Western2UTF8Converter.pdb
